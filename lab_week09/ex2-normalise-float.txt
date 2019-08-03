@@ -1,0 +1,1 @@
+echo 0003.14000 | python ex2-normalise-float.py

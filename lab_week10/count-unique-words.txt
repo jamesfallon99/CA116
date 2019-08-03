@@ -1,0 +1,7 @@
+dog
+cat
+mouse
+hat
+mouse
+horse
+dog
