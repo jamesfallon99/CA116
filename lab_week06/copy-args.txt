@@ -1,0 +1,1 @@
+python copy-args.py cat dog mouse

@@ -1,0 +1,6 @@
+red herring
+blue
+red herring
+green
+green
+end
