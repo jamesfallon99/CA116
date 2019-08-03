@@ -1,0 +1,4 @@
+import func_double
+
+func_double.double(5)
+func_double.double("Hello")
